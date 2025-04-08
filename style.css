@@ -1,3 +1,14 @@
 body{
-    background-color: deeppink;
+    background-color:pink;
+}
+
+.titulo{
+    color:red;
+    text-align: center;
+    border:dashed;
+}
+
+h1{
+    color:salmon;
+    border:none;
 }
