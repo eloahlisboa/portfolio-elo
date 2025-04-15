@@ -6,9 +6,21 @@ body{
     color:red;
     text-align: center;
     border:dashed;
+    text-decoration: underline;
 }
 
 h1{
     color:salmon;
     border:none;
+    text-align: center;
+}
+
+button{
+    color:crimson
+    font-size 50px;
+}
+
+.imagem-jojo{
+    width: 500px;
+
 }
